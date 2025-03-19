@@ -288,8 +288,7 @@ color: #404bbf;
       rgba(46, 47, 66, 0.7), 
       rgba(46, 47, 66, 0.7)
       ), 
-      url(../images/icons-mob/Dark-bg-mob.png);
-  background-repeat: no-repeat;
+      url(../images/icons-mob/haroun.icon/5393284725755476500.jpg);  background-repeat: no-repeat;
   background-position: center;
 
   padding-bottom: 72px; 
@@ -1028,8 +1027,7 @@ background-image: linear-gradient(
   rgba(46, 47, 66, 0.7), 
   rgba(46, 47, 66, 0.7)
   ), 
-  url(../images/people-office-tab.jpg);
-}
+  url(../images/icons-mob/haroun.icon/5393284725755476500.jpg);}
 
 @media (min-device-pixel-ratio: 2),
 (min-resolution: 192dpi),
@@ -1039,8 +1037,7 @@ background-image: linear-gradient(
   rgba(46, 47, 66, 0.7), 
   rgba(46, 47, 66, 0.7)
   ), 
-  url(../images/people-office2x.jpg);
-  }
+  url(../images/icons-mob/haroun.icon/5393284725755476500.jpg);  }
 }
 
 .opening-title {
@@ -1216,8 +1213,7 @@ background-image: linear-gradient(
           rgba(46, 47, 66, 0.7), 
           rgba(46, 47, 66, 0.7)
           ), 
-          url(../images/icons-mob/haroun.icon/5393284725755476500.jpg);
-  }
+          url(../images/icons-mob/haroun.icon/5393284725755476500.jpg);  }
 
   @media (min-device-pixel-ratio: 2),
   (min-resolution: 192dpi),
@@ -1227,8 +1223,7 @@ background-image: linear-gradient(
           rgba(46, 47, 66, 0.7), 
           rgba(46, 47, 66, 0.7)
           ), 
-          url(../images/people-office2x.jpg);
-      }
+          url(../images/icons-mob/haroun.icon/5393284725755476500.jpg);      }
   }
 
   .opening-title {
